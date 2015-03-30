@@ -20,9 +20,6 @@ module.exports = {
 
     nickName : { type: 'string' },
 
-    // performance : { type: 'float' },
-
-    // performanceHistory : { type: 'array' }
   }
 };
 
